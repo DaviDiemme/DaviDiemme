@@ -1,4 +1,6 @@
-- 👋 @DaviDiemme
+- 👋 Hi, David here!
+-                       robotics engineering student
+-                       music and nature
 
 
 - 📫 davidmgm00@gmail.com 
