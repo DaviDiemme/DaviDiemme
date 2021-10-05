@@ -1,6 +1,6 @@
 - 👋 Hi, David here!
 -                       robotics engineering student
--                       music and nature
+-                       art, music and nature
 
 
 - 📫 davidmgm00@gmail.com 
