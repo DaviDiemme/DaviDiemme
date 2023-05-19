@@ -1,6 +1,6 @@
 - 👋 Hi, David here!
--                       robotics engineering student
--                       art, music and nature
+-                       I am a robotics engineering graduate.
+-                       I like art, music and nature.
 
 
 - 📫 davidmgm00@gmail.com 
